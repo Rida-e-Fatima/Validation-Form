@@ -46,5 +46,3 @@ body {
 	pointer-events: none;
 	transition: 0.5s;
 }
-/* .login-box .user-box input:focus ~ label, .create-account-box .user-box input:focus ~ label, .login-box .user-box input:valid ~ label, .create-account-box .user-box input:valid ~ label {
-	top */
