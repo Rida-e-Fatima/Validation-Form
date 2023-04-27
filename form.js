@@ -56,5 +56,5 @@ loginForm.addEventListener("submit", (event) => {
      loginForm.reset();
  
      // Redirect to the home page
-     window.location.href = "home.html";
+     window.location.href = "./home.html";
 });
